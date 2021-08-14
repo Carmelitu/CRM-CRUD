@@ -4,14 +4,14 @@
       "nombre": "Seiji",
       "email": "lucaseijo7@gmail.com",
       "telefono": "2236682507",
-      "empresa": "1",
+      "empresa": "Free Code",
       "id": 28
     },
     {
-      "nombre": "paula",
-      "email": "dsadas@sadas.com",
+      "nombre": "Paula",
+      "email": "paulita@mail.com",
       "telefono": "2236682507",
-      "empresa": "sadas",
+      "empresa": "Popi Inc.",
       "id": 30
     },
     {
@@ -20,6 +20,13 @@
       "telefono": "213213",
       "empresa": "Dogz Inc.",
       "id": 31
+    },
+    {
+      "nombre": "Carola",
+      "email": "carolita@gmail.com",
+      "telefono": "22354879",
+      "empresa": "Gatos",
+      "id": 32
     }
   ]
 }
