@@ -1,32 +1,11 @@
 {
   "clientes": [
     {
-      "nombre": "Juan NUEVO!",
-      "email": "correo2@correo.com",
-      "telefono": "12",
-      "empresa": "12212",
-      "id": 26
-    },
-    {
-      "nombre": "paula",
-      "email": "lucaseijo7@gmail.com",
-      "telefono": "156",
-      "empresa": "1",
-      "id": 27
-    },
-    {
       "nombre": "Seiji",
       "email": "lucaseijo7@gmail.com",
       "telefono": "2236682507",
       "empresa": "1",
       "id": 28
-    },
-    {
-      "nombre": "paula",
-      "email": "lucaseijo7@gasdmail.com",
-      "telefono": "156",
-      "empresa": "21312",
-      "id": 29
     },
     {
       "nombre": "paula",
